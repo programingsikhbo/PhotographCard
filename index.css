@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 #container{
     padding-left: 130px;
     padding-right: 130px;
@@ -7,16 +7,12 @@
 #meanBar{
     display: flex;
     justify-content: space-between;
-  
-  
+ 
 }
-
 header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-   
-
 }
 header a{
     text-decoration: none;
@@ -24,7 +20,104 @@ header a{
 color: black;
 height: 36px;
 width: 463px;
+font-family: "Poppins", serif;
+font-size:16px ;
 }
 .barIcon{
    margin-left: 20px;
 }
+/* endind style head */
+main h2{
+    color:#3A3A3A ;
+    font-weight: 700;
+    line-height:70px;
+    font-family: "Poppins", serif;
+    width:582px ;
+     height:100px; 
+     font-size: 52px;
+}
+.Para{
+    color:#3A3A3A ;
+    font-family: "Poppins", serif;
+    height:auto ;
+    width:400px;
+    font-size: 16px;
+    font-weight:600;
+}
+ .Button{
+    color:#FFFFFF ;
+    background-color:#E02C6D ;
+    padding: 8px 8px;
+    border-radius: 41px;
+    border: none;
+ }  
+ main{ 
+    justify-content: space-between;
+     display: flex;    
+ } 
+/* ending style photo pic */
+section{
+   align-items: center;
+   padding-left: 130px;
+   padding-right: 130px;
+    
+       /* margin-left: 50px;  */
+     /* margin-right: 50px;   */
+  
+}
+.img1{ 
+    width: 55px;
+    height:31px ;
+     margin-right: 50px;
+    margin-right: 50px;
+    
+}
+.img2{
+    width:84px;
+    height:26px ;
+    margin-right: 30px;
+    margin-right: 30px; 
+}
+.img3{
+    width: 84px;
+    height:26px ;
+    margin-right: 30px;
+    margin-right: 30px; 
+}
+.img4{
+    width: 99px;
+    height:39px ;
+    margin-right: 30px;
+    margin-right: 30px;  
+}
+.img5{
+  
+    width: 91px;
+    height:28px ;
+    margin-right: 30px;
+    margin-right: 30px;  
+}
+.img6{
+ 
+    width: 111px;
+    height:26px ;
+    margin-right: 30px;
+    margin-right: 30px; 
+}
+.img7{
+  
+    width:91px;
+    height:38px ;
+    margin-right: 30px;
+    margin-right: 30px;  
+ } 
+ /* image style end */
+
+
+
+   
+ 
+
+
+ 
+
